@@ -54,15 +54,27 @@ def next_question():
                             "Quiz Completed! Final score: {}/{}".format(score, len(quiz_data)))
         root.destroy()
 
-# Create the main window
+# Create the splash screen
+splash_root = tk.Tk()
+splash_root.title("Welcome Menu")
+splash_root.geometry("600x500")
+
+# Creating the main window
+def main_window():
+    splash_root.destroy()
+
+# splash screen timer
+splash_root.after(3000, main_window)
+
 root = tk.Tk()
 root.title("Quiz Launcher")
 root.geometry("600x500")
-style = Style(theme="flatly")
+style = Style()
 
 # Configure the font size for the question and choice buttons
 style.configure("TLabel", font=("Helvetica", 20))
 style.configure("TButton", font=("Helvetica", 16))
+
 
 # Create the question label
 qs_label = ttk.Label(
