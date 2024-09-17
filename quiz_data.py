@@ -5,9 +5,9 @@ quiz_data = [
         "answer": "Canberra" # 3rd option
     },
     { # question 2
-        "question": "What is the chemical element for Copper?",
-        "choices": ["Cu", "C", "Ca", "Co"],
-        "answer": "Cu" # 1st option
+        "question": "What chemical element has symbol Au?",
+        "choices": ["Gold", "Silver", "Actinium", "Antimony"],
+        "answer": "Gold" # 1st option
     },
     { # question 3
         "question": "What year did the Titanic sink?",
@@ -25,9 +25,9 @@ quiz_data = [
         "answer": "1928" # 3rd option
     },
     { # question 6
-        "question": "Who was the 33rd President of the USA?",
-        "choices": ["Gerald Ford", "Donald Trump", "John F. Kennedy", "Harry S. Truman"],
-        "answer": "Harry S. Truman" # 4th option
+        "question": "What city is known as 'The Eternal City'?",
+        "choices": ["Athens", "Alexandria", "Jerusalem", "Rome"],
+        "answer": "Rome" # 4th option
     },
     { # question 7
         "question": "Which ENHYPEN member ranked 1st place on the finale of I-LAND?" ,
@@ -41,8 +41,8 @@ quiz_data = [
     },
     { # question 9
         "question": "How many chambers are in a human heart?",
-        "choices": ["5", "4", "2", "1"],
-        "answer": "4" # 2nd option
+        "choices": ["Five", "Four", "Two", "One"],
+        "answer": "Four" # 2nd option
     },
     { # question 10
         "question": "Which state does Burger King originate from?",
@@ -51,8 +51,8 @@ quiz_data = [
     },
     { # question 11
         "question": "How many timezones are used in Russia?",
-        "choices": ["11", "12", "8", "9"],
-        "answer": "11" # 1st option
+        "choices": ["Eleven", "Twelve", "Eight", "Nine"],
+        "answer": "Eleven" # 1st option
     },
     { # question 12
         "question": "Which nation's passport is the most powerful as of July 2024?",
@@ -60,9 +60,9 @@ quiz_data = [
         "answer": "Singapore" # 2nd option
     },
     { # question 13
-        "question": "Who was the first European to discover New Zealand?",
-        "choices": ["James Cook", "Abel Tasman", "William Hobson", "none of the above"],
-        "answer": "Abel Tasman" # 2nd option
+        "question": "Which city has the single busiest airport in the world?",
+        "choices": ["Shanghai", "Atlanta", "London", "Tokyo"],
+        "answer": "Atlanta" # 2nd option
     },
     { # question 14
         "question": "In which year was the current flag of Jamaica adopted?",
@@ -75,14 +75,14 @@ quiz_data = [
         "answer": "Saturn" # 3rd option
     },
     { # question 16
-        "question": "What is King Charles III's surname?",
-        "choices": ["Arthur", "Wales", "Windsor", "Mountbatten-Windsor"],
-        "answer": "Mountbatten-Windsor" # 4th option
+        "question": "Which country drinks the most coffee per capita?",
+        "choices": ["Brazil", "Germany", "USA", "Finland"],
+        "answer": "Finland" # 4th option
     },
     { # question 17
-        "question": "What was New York City's original name?",
-        "choices": ["New Amsterdam", "New Liverpool", "New Brussels", "Greater Manhattan"],
-        "answer": "New Amsterdam" # 1st option
+        "question": "What is Lightning McQueen's real first name?",
+        "choices": ["Montgomery", "Keith", "Lincoln", "John"],
+        "answer": "Montgomery" # 1st option
     },
     { # question 18
         "question": "In which country was the Caesar salad invented?",
@@ -90,9 +90,9 @@ quiz_data = [
         "answer": "Mexico" # 4th option
     },
     { # question 19
-        "question": "Which of the following is not an NCEA subject?",
-        "choices": ["Computer Science", "Classical Studies", "Driver's License (Class 1)","Latin"],
-        "answer": "Computer Science" # 1st option
+        "question": "Which mammal has no vocal cords?",
+        "choices": ["Giraffe", "Kangaroo", "Whale","Rhino"],
+        "answer": "Giraffe" # 1st option
     },
     { # question 20
         "question": "What is a group of crows called?",
